@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "eventbrite-scraper": {
+      "url": "https://mcp.apify.com?tools=fetch-actor-details,magnova/eventbrite-scraper"
+    }
+  }
+}
